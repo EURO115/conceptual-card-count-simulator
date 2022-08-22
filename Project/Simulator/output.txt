@@ -1,0 +1,156 @@
+Games Simulated: 3000000, Times repeated: 10, Count Method used: HiLo
+Details:  Wins: 39.163967%, Losses: 60.685165%, Draws: 0.15086667%
+Details:  Wins: 75.3782%, Losses: 24.609066%, Draws: 0.012733333%
+Details:  Wins: 49.854366%, Losses: 50.129135%, Draws: 0.0165%
+Details:  Wins: 20.2135%, Losses: 79.7691%, Draws: 0.0174%
+Details:  Wins: 25.4107%, Losses: 74.53947%, Draws: 0.04983333%
+Details:  Wins: 49.930233%, Losses: 50.062435%, Draws: 0.0073333336%
+Details:  Wins: 38.310566%, Losses: 61.666767%, Draws: 0.022666667%
+Details:  Wins: 30.200935%, Losses: 69.7607%, Draws: 0.038366664%
+Details:  Wins: 54.667336%, Losses: 45.309433%, Draws: 0.023233334%
+Details:  Wins: 39.298203%, Losses: 60.653763%, Draws: 0.048033334%
+Simulation Batch complete. Records of this simulation will be on file permanently until deleted/refreshed
+====================================================================================
+Games Simulated: 3000000, Times repeated: 10, Count Method used: KO
+Details:  Wins: 26.865398%, Losses: 73.105865%, Draws: 0.028733334%
+Details:  Wins: 32.7957%, Losses: 67.18923%, Draws: 0.015066666%
+Details:  Wins: 37.86743%, Losses: 62.021797%, Draws: 0.110766664%
+Details:  Wins: 56.80867%, Losses: 43.154133%, Draws: 0.0372%
+Details:  Wins: 30.053299%, Losses: 69.93387%, Draws: 0.0128333345%
+Details:  Wins: 43.1118%, Losses: 56.86373%, Draws: 0.024466667%
+Details:  Wins: 52.482002%, Losses: 47.314598%, Draws: 0.20339999%
+Details:  Wins: 44.761467%, Losses: 55.21617%, Draws: 0.022366665%
+Details:  Wins: 41.4826%, Losses: 58.49623%, Draws: 0.021166667%
+Details:  Wins: 39.958702%, Losses: 60.0352%, Draws: 0.0061%
+Simulation Batch complete. Records of this simulation will be on file permanently until deleted/refreshed
+====================================================================================
+Games Simulated: 3000000, Times repeated: 10, Count Method used: HiOpt2
+Details:  Wins: 76.56177%, Losses: 23.407368%, Draws: 0.030866668%
+Details:  Wins: 60.8994%, Losses: 30.012835%, Draws: 9.087767%
+Details:  Wins: 67.4948%, Losses: 32.470398%, Draws: 0.0348%
+Details:  Wins: 70.5681%, Losses: 29.418335%, Draws: 0.013566666%
+Details:  Wins: 52.532665%, Losses: 47.431232%, Draws: 0.0361%
+Details:  Wins: 53.2284%, Losses: 46.7511%, Draws: 0.0205%
+Details:  Wins: 54.77243%, Losses: 45.199265%, Draws: 0.0283%
+Details:  Wins: 56.854332%, Losses: 43.1254%, Draws: 0.020266667%
+Details:  Wins: 76.65477%, Losses: 23.3154%, Draws: 0.029833332%
+Details:  Wins: 40.04373%, Losses: 59.931667%, Draws: 0.024600001%
+Simulation Batch complete. Records of this simulation will be on file permanently until deleted/refreshed
+====================================================================================
+Games Simulated: 3000000, Times repeated: 10, Count Method used: No
+Details:  Wins: 17.021633%, Losses: 82.97837%, Draws: 0.0%
+Details:  Wins: 9.349867%, Losses: 90.65014%, Draws: 0.0%
+Details:  Wins: 29.241568%, Losses: 70.75843%, Draws: 0.0%
+Details:  Wins: 13.168934%, Losses: 86.83107%, Draws: 0.0%
+Details:  Wins: 11.7933%, Losses: 88.2067%, Draws: 0.0%
+Details:  Wins: 7.4114003%, Losses: 92.5886%, Draws: 0.0%
+Details:  Wins: 18.393%, Losses: 81.607%, Draws: 0.0%
+Details:  Wins: 7.8475995%, Losses: 92.1524%, Draws: 0.0%
+Details:  Wins: 6.938667%, Losses: 93.06133%, Draws: 0.0%
+Details:  Wins: 5.5569%, Losses: 94.4431%, Draws: 0.0%
+Simulation Batch complete. Records of this simulation will be on file permanently until deleted/refreshed
+====================================================================================
+Games Simulated: 3000000, Times repeated: 10, Count Method used: HiOpt
+Details:  Wins: 74.680435%, Losses: 25.310501%, Draws: 0.0090666665%
+Details:  Wins: 61.385864%, Losses: 38.498165%, Draws: 0.11596667%
+Details:  Wins: 33.499332%, Losses: 56.931297%, Draws: 9.569367%
+Details:  Wins: 47.174767%, Losses: 52.64597%, Draws: 0.17926666%
+Details:  Wins: 35.1165%, Losses: 64.7994%, Draws: 0.0841%
+Details:  Wins: 52.8011%, Losses: 40.932%, Draws: 6.2669%
+Details:  Wins: 43.168602%, Losses: 56.79333%, Draws: 0.038066667%
+Details:  Wins: 56.624634%, Losses: 43.316265%, Draws: 0.059100002%
+Details:  Wins: 35.054035%, Losses: 64.89823%, Draws: 0.047733333%
+Details:  Wins: 44.1454%, Losses: 55.70857%, Draws: 0.14603333%
+Simulation Batch complete. Records of this simulation will be on file permanently until deleted/refreshed
+====================================================================================
+Games Simulated: 3000000, Times repeated: 10, Count Method used: Omega2
+Details:  Wins: 76.22307%, Losses: 23.667734%, Draws: 0.10920001%
+Details:  Wins: 74.76746%, Losses: 25.2231%, Draws: 0.009433334%
+Details:  Wins: 55.300236%, Losses: 38.8452%, Draws: 5.8545666%
+Details:  Wins: 62.09613%, Losses: 37.901566%, Draws: 0.0023%
+Details:  Wins: 63.220398%, Losses: 36.753%, Draws: 0.0266%
+Details:  Wins: 56.056934%, Losses: 43.942665%, Draws: 4.0E-4%
+Details:  Wins: 72.33403%, Losses: 27.6516%, Draws: 0.014366667%
+Details:  Wins: 35.089767%, Losses: 64.8877%, Draws: 0.022533333%
+Details:  Wins: 61.638332%, Losses: 38.327034%, Draws: 0.034633335%
+Details:  Wins: 58.421165%, Losses: 41.5673%, Draws: 0.011533334%
+Simulation Batch complete. Records of this simulation will be on file permanently until deleted/refreshed
+====================================================================================
+Games Simulated: 3000000, Times repeated: 10, Count Method used: Zen
+Details:  Wins: 55.41227%, Losses: 35.812767%, Draws: 8.774967%
+Details:  Wins: 58.8746%, Losses: 41.1085%, Draws: 0.016900001%
+Details:  Wins: 35.3405%, Losses: 64.65733%, Draws: 0.0021666666%
+Details:  Wins: 59.965736%, Losses: 39.984135%, Draws: 0.050133333%
+Details:  Wins: 60.5589%, Losses: 30.368433%, Draws: 9.072666%
+Details:  Wins: 54.5273%, Losses: 45.472034%, Draws: 6.6666666E-4%
+Details:  Wins: 40.014366%, Losses: 59.960197%, Draws: 0.025433334%
+Details:  Wins: 42.400635%, Losses: 57.573967%, Draws: 0.025400002%
+Details:  Wins: 69.6513%, Losses: 30.346733%, Draws: 0.0019666667%
+Details:  Wins: 57.40797%, Losses: 42.57707%, Draws: 0.014966667%
+Simulation Batch complete. Records of this simulation will be on file permanently until deleted/refreshed
+====================================================================================
+Games Simulated: 3000000, Times repeated: 10, Count Method used: Halves
+Details:  Wins: 43.141933%, Losses: 56.834232%, Draws: 0.023833333%
+Details:  Wins: 60.485935%, Losses: 39.2863%, Draws: 0.22776666%
+Details:  Wins: 36.4185%, Losses: 63.467197%, Draws: 0.1143%
+Details:  Wins: 31.688833%, Losses: 68.29926%, Draws: 0.011899999%
+Details:  Wins: 48.508434%, Losses: 51.476334%, Draws: 0.015233333%
+Details:  Wins: 53.184902%, Losses: 46.804134%, Draws: 0.010966667%
+Details:  Wins: 33.339302%, Losses: 66.6511%, Draws: 0.0096%
+Details:  Wins: 41.569965%, Losses: 58.415802%, Draws: 0.014233333%
+Details:  Wins: 24.594334%, Losses: 75.26863%, Draws: 0.13703334%
+Details:  Wins: 61.856133%, Losses: 38.1331%, Draws: 0.010766666%
+Simulation Batch complete. Records of this simulation will be on file permanently until deleted/refreshed
+====================================================================================
+Games Simulated: 3000000, Times repeated: 10, Count Method used: KISS
+Details:  Wins: 48.344067%, Losses: 51.6252%, Draws: 0.030733334%
+Details:  Wins: 66.44677%, Losses: 33.39693%, Draws: 0.15630001%
+Details:  Wins: 49.663933%, Losses: 41.514133%, Draws: 8.821933%
+Details:  Wins: 49.838833%, Losses: 50.137%, Draws: 0.024166666%
+Details:  Wins: 45.396%, Losses: 54.5838%, Draws: 0.0202%
+Details:  Wins: 44.9141%, Losses: 55.065964%, Draws: 0.019933334%
+Details:  Wins: 69.76047%, Losses: 30.221266%, Draws: 0.018266667%
+Details:  Wins: 36.3677%, Losses: 63.630497%, Draws: 0.0018000001%
+Details:  Wins: 60.526802%, Losses: 30.410099%, Draws: 9.0631%
+Details:  Wins: 41.978035%, Losses: 57.999905%, Draws: 0.022066668%
+Simulation Batch complete. Records of this simulation will be on file permanently until deleted/refreshed
+====================================================================================
+Games Simulated: 3000000, Times repeated: 10, Count Method used: JNoir
+Details:  Wins: 49.999268%, Losses: 49.999165%, Draws: 0.0015666666%
+Details:  Wins: 45.460667%, Losses: 54.538963%, Draws: 3.6666667E-4%
+Details:  Wins: 74.939%, Losses: 25.058132%, Draws: 0.0028666668%
+Details:  Wins: 59.081066%, Losses: 40.917732%, Draws: 0.0012%
+Details:  Wins: 63.621067%, Losses: 36.377666%, Draws: 0.0012666667%
+Details:  Wins: 62.415634%, Losses: 29.289299%, Draws: 8.295067%
+Details:  Wins: 54.545097%, Losses: 45.4547%, Draws: 2.0E-4%
+Details:  Wins: 35.003834%, Losses: 64.994965%, Draws: 0.0012%
+Details:  Wins: 49.999966%, Losses: 40.9106%, Draws: 9.089434%
+Details:  Wins: 35.010933%, Losses: 54.994232%, Draws: 9.994833%
+Simulation Batch complete. Records of this simulation will be on file permanently until deleted/refreshed
+====================================================================================
+Games Simulated: 3000000, Times repeated: 10, Count Method used: ScaleCount
+Details:  Wins: 69.51214%, Losses: 30.480831%, Draws: 0.0070333336%
+Details:  Wins: 35.321335%, Losses: 64.5651%, Draws: 0.11356666%
+Details:  Wins: 44.9581%, Losses: 55.0317%, Draws: 0.010199999%
+Details:  Wins: 67.48987%, Losses: 32.450367%, Draws: 0.059766665%
+Details:  Wins: 44.693333%, Losses: 55.23847%, Draws: 0.0682%
+Details:  Wins: 75.856735%, Losses: 24.090967%, Draws: 0.052300002%
+Details:  Wins: 47.001534%, Losses: 44.14683%, Draws: 8.851633%
+Details:  Wins: 52.64133%, Losses: 47.176098%, Draws: 0.18256666%
+Details:  Wins: 63.291065%, Losses: 36.690636%, Draws: 0.0183%
+Details:  Wins: 32.497433%, Losses: 67.47217%, Draws: 0.030399999%
+Simulation Batch complete. Records of this simulation will be on file permanently until deleted/refreshed
+====================================================================================
+Games Simulated: 3000000, Times repeated: 10, Count Method used: Omega2
+Details:  Wins: 54.981632%, Losses: 45.017097%, Draws: 0.0012666667%
+Details:  Wins: 59.773766%, Losses: 40.212635%, Draws: 0.0136%
+Details:  Wins: 59.0552%, Losses: 40.939632%, Draws: 0.0051666666%
+Details:  Wins: 53.791897%, Losses: 46.1305%, Draws: 0.077599995%
+Details:  Wins: 61.97953%, Losses: 38.0112%, Draws: 0.009266667%
+Details:  Wins: 59.94483%, Losses: 40.05137%, Draws: 0.0037999998%
+Details:  Wins: 30.131098%, Losses: 69.852234%, Draws: 0.016666666%
+Details:  Wins: 68.078%, Losses: 31.916567%, Draws: 0.0054333336%
+Details:  Wins: 63.109165%, Losses: 36.87497%, Draws: 0.015866667%
+Details:  Wins: 75.011765%, Losses: 24.903%, Draws: 0.08523333%
+Simulation Batch complete. Records of this simulation will be on file permanently until deleted/refreshed
+====================================================================================
